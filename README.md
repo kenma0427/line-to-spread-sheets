@@ -4,3 +4,4 @@ lineのapiを取得してスプレッドシートに連携させて、lineで送
 参考記事
 https://qiita.com/njn0te/items/2c08c936661a9febb3b0
 https://qiita.com/kou1121/items/149e7e14f04207adf622
+https://qiita.com/herishiro/items/562ecf961ffa7bedb0f4
