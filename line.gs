@@ -12,7 +12,7 @@ function doPost(e) {
 
   // スプレッドシート設定
   const sheet = SpreadsheetApp.getActiveSpreadsheet();
-  const listSheet = sheet.getSheetByName("シート2"); // シート2を使用
+  const listSheet = sheet.getSheetByName("シート1"); 
 
   // データ範囲と最終行を取得
   const data = listSheet.getDataRange().getValues();
